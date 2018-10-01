@@ -1,0 +1,2 @@
+# Kaleidos
+companion for traders
